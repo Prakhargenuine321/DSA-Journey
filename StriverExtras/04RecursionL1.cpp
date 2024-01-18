@@ -6,6 +6,7 @@ using namespace std;
 //Here Time Complexity is: O(n).
 //Here Space Complexity is: O(n).-->calculated as space stack.
 
+//Method1-->Using Recursion
 //function definition
 void printName(int n , string name , int i){
     if(i>n){
@@ -27,3 +28,16 @@ int main(){
     printName(n,name,1);
     return 0;
 }
+
+//Method2-->Using STL properties.
+// vector<string> printNTimes(int n) {
+
+//     string str = "Coding Ninjas";
+
+//     vector<string> lop(n,str); //It will create 'n' copies of an string.
+
+//     return lop;
+
+    
+
+// }

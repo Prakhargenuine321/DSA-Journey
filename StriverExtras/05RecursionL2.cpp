@@ -21,3 +21,24 @@ int main(){
     printNumber(1,n);
     return 0;
 }
+
+
+//Also review following code(Return '1' to 'N' numbers) and understand by making recursion diagram.
+
+// vector<int> printNos(int x) {
+
+//     if(x==0){
+
+//         vector<int>ans;
+
+//         return ans;
+
+//     }
+
+//     vector<int> ans=printNos(x-1);
+
+//     ans.push_back(x);
+
+//     return ans;
+
+// }
