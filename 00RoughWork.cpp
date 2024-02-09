@@ -1,19 +1,16 @@
-#include<iostream>
 #include<bits/stdc++.h>
 using namespace std;
 
 int main(){
-    set<int> st;
-    st.insert(1);
-    st.emplace(2);
-    st.insert(2);
-    st.insert(4);
-    st.insert(3);
-    auto pos = st.find(3);
-    for (auto i = pos; i != st.end(); i++)
+    vector<int> arr = {1,1,2,2,3,3,4,4,5,5,6,6,7};
+    int size = arr.size();
+    for (int i = 0; i < size; i=i+2)
     {
-        cout << *i <<" ";
+        if(arr[i]!=arr[i+1]){
+            cout << arr[i] << " :occured only one time!"<<endl;
+            break;
+        }
     }
     
-    
+    return 0;
 }
