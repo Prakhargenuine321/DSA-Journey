@@ -13,6 +13,7 @@ int main(){
         }
     }
     cout << "Hello This is Just For Rough Purpose" << endl;
+    cout << "Hello This is Just For Rough Purpose" << endl;
     
     return 0;
 }
