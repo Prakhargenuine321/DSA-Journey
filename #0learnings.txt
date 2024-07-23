@@ -1,0 +1,3 @@
+#1) According to the C++ standard, main() must return an integer type (int) , otherwise it will give an error!
+#2) Taking out the exponential value of an number: pow(num , power);
+#3) While problem solving always remember that if numbers are given as -ive also and you want take minimum number then use "INT_MIN".

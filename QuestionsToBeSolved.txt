@@ -1,0 +1,11 @@
+//Questions to be solved after learning the remaining topics.
+
+~~~~~~~PROBLEMS TO VISIT AFTER LEARNING REQUIRED TOPICS~~~~~~~
+
+1) https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/
+-->Array , Binary Search , Greedy , Sliding Window , Sorting , Prefix Sum.
+
+~~~~~~~PROBLEMS FOR REVISIT TO PRACTICE~~~~~~~
+
+1)Also visit this problem and try to solve it by your own-->
+https://www.geeksforgeeks.org/problems/minimum-number-of-jumps-1587115620/0
