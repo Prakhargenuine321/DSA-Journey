@@ -2,10 +2,10 @@
 using namespace std;
 
 int main(){
-    vector<int> vec = {10 , 20 , 30 , 40 , 50};
-    for(vector<int>::iterator it = vec.begin(); it != vec.end() ; it++){
-        cout << *(it) << endl;
-    }
+    vector<int> arr = {1 , 2 , 3};
+    int n = arr.size();
+    int firstNum = arr[0];
+    int rest = firstNum + 1;
 
     return 0;
 }

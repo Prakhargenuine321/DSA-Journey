@@ -1,0 +1,5 @@
+30/07/2024-->
+1)https://leetcode.com/problems/rearrange-array-elements-by-sign/
+2)https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1
+3)https://leetcode.com/problems/permutations/submissions/1338394377/
+4)https://leetcode.com/problems/next-permutation/description/
