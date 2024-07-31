@@ -1,11 +1,14 @@
-#include<bits/stdc++.h>
+#include <bits/stdc++.h>
 using namespace std;
 
-int main(){
-    vector<int> arr = {1 , 2 , 3};
-    int n = arr.size();
-    int firstNum = arr[0];
-    int rest = firstNum + 1;
+int main()
+{
+    vector<int> arr = {16, 17, 4, 3, 5, 2};
+    sort(arr.begin() , arr.end());
+    for(auto it : arr){
+        cout << it << " ";
+    }
+
 
     return 0;
 }
