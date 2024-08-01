@@ -5,6 +5,7 @@ using namespace std;
 //Brute force solution
 //for better and optimal go over leetcode.
 //https://leetcode.com/problems/set-matrix-zeroes/
+//TC =>O(N^3) -->reason -->O(m*n)*O(m+n)+O(m*n) so approx equal to O(N^3).
 
 void markRow(vector<vector<int>> &matrix, int n, int m, int i) {
     // set all non-zero elements as -1 in the row i:
