@@ -9,3 +9,13 @@
 2)https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 3)https://leetcode.com/problems/longest-consecutive-sequence/
 4)https://leetcode.com/problems/set-matrix-zeroes/
+
+01/08/2024-->
+1)https://leetcode.com/problems/rotate-image/
+2)https://leetcode.com/problems/spiral-matrix/
+3)https://leetcode.com/problems/subarray-sum-equals-k/description/
+4)https://leetcode.com/problems/number-of-senior-citizens/submissions/1341053683/?envType=daily-question&envId=2024-08-01
+
+02/08/2024-->
+1)https://leetcode.com/submissions/detail/1342164048/
+2)https://leetcode.com/problems/pascals-triangle/
