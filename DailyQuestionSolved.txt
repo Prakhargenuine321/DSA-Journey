@@ -1,3 +1,6 @@
+(*Instructions*)--><<1)single star(*) means you did question by yourself but you need to improve the solution's complexity>>
+<<2)Double star(**) means you need to do it by yourself again as you have been not given 100% over it>>
+
 30/07/2024-->
 1)https://leetcode.com/problems/rearrange-array-elements-by-sign/
 2)https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1
@@ -17,5 +20,14 @@
 4)https://leetcode.com/problems/number-of-senior-citizens/submissions/1341053683/?envType=daily-question&envId=2024-08-01
 
 02/08/2024-->
-1)https://leetcode.com/submissions/detail/1342164048/
+**1)https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/description/
 2)https://leetcode.com/problems/pascals-triangle/
+
+03/08/2024-->
+1)https://leetcode.com/contest/biweekly-contest-136/problems/minimum-number-of-flips-to-make-binary-grid-palindromic-i/description/
+**2)https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/submissions/1343413585/?envType=daily-question&envId=2024-08-03
+
+04/08/2024-->
+1)https://leetcode.com/problems/majority-element-ii/description/
+*2)https://leetcode.com/problems/range-sum-of-sorted-subarray-sums/description/?envType=daily-question&envId=2024-08-04
+3)
