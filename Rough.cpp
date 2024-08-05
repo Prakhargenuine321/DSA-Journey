@@ -14,5 +14,14 @@ int main()
         cout << it.first << "->" << it.second << endl;
     }
 
+    for(auto it : mpp){
+        if(it.second == 1){
+            cout << "Catched It"<< endl;
+        }
+        else{
+            cout << "This is not" << endl;
+        }
+    }
+
     return 0;
 }
