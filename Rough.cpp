@@ -3,25 +3,12 @@ using namespace std;
 
 int main()
 {
-    vector<string> arr = {"d","c","b","c","a","b"};
-
-    unordered_map<string , int> mpp;
-    for(int i = 0 ; i < arr.size() ; i++){
-        mpp[arr[i]]++;
-    }
-
+    unordered_map<int , int> mpp(0 , 1);
     for(auto it : mpp){
-        cout << it.first << "->" << it.second << endl;
+        cout << it.first << " " << it.second;
     }
+    
 
-    for(auto it : mpp){
-        if(it.second == 1){
-            cout << "Catched It"<< endl;
-        }
-        else{
-            cout << "This is not" << endl;
-        }
-    }
 
     return 0;
 }

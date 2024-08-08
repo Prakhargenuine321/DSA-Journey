@@ -35,5 +35,22 @@
 05/08/2024-->
 1)https://leetcode.com/problems/4sum/
 2)https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=daily-question&envId=2024-08-05
-3)
+3)https://www.geeksforgeeks.org/problems/largest-subarray-with-0-sum/1
+
+06/08/2024-->
+**1)https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/submissions/1346776230/?envType=daily-question&envId=2024-08-06
+2)https://www.naukri.com/code360/problems/count-subarrays-with-given-xor_1115652?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+3)https://leetcode.com/problems/merge-intervals/
+
+07/08/2024-->
+**1)https://leetcode.com/problems/integer-to-english-words/description/?envType=daily-question&envId=2024-08-07
+
+08/08/2024-->
+1)https://leetcode.com/problems/merge-sorted-array/
+**2)https://leetcode.com/problems/spiral-matrix-iii/description/?envType=daily-question&envId=2024-08-08
+
+
+
+
+
 
