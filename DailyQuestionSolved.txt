@@ -52,9 +52,10 @@
 09/08/2024-->
 *1)https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
 2)https://leetcode.com/problems/find-missing-and-repeated-values/
+**3)https://leetcode.com/problems/magic-squares-in-grid/?envType=daily-question&envId=2024-08-09
 
-
-
-
+10/08/2024-->
+1)https://www.naukri.com/code360/problems/number-of-inversions_6840276?count=25&page=3&search=&sort_entity=order&sort_order=ASC&leftPanelTabValue=SUBMISSION
+2)
 
 
