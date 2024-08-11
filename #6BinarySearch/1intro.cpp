@@ -3,6 +3,14 @@
 //iterative approach is done over leetcode -->https://leetcode.com/problems/binary-search/
 
 //here did 'recursive-approach'
+//TC =>O(logbase2N);
+
+//Overflow Case-->
+//suppose if our "answer" is INT_MAX and range is "0 to INT_MAX" so if we did
+//mid = (high + low) / 2 --> it will overflow as {INT_MAX + INT_MAX = 2 * INT_MAX} so variable will not be able to store it
+//so there are following 2 solutions for this problem-->
+//1)take low and high as "long long"
+//2)mid = low + (low - high) / 2;
 
 #include<bits/stdc++.h>
 using namespace std;
