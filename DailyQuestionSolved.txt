@@ -62,8 +62,10 @@
 11/08/2024-->
 1)https://leetcode.com/contest/weekly-contest-410/problems/snake-in-matrix/description/
 2)https://leetcode.com/problems/binary-search/
-
-
-
+3)https://www.naukri.com/code360/problems/lower-bound_8165382?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+4)https://www.naukri.com/code360/problems/implement-upper-bound_8165383?count=25&page=1&search=&sort_entity=order&sort_order=ASC
+5)https://leetcode.com/problems/search-insert-position/
+6)https://www.naukri.com/code360/problems/ceiling-in-a-sorted-array_1825401?count=25&search=&sort_entity=order&sort_order=ASC&nps=true&page=1&leftPanelTabValue=SUBMISSION
+7)https://www.naukri.com/code360/problem-of-the-day/easy?leftPanelTabValue=SUBMISSION
 
 
