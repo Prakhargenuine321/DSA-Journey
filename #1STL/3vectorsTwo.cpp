@@ -7,10 +7,10 @@ int main(){
     vector<int> vec = {10 , 20 , 30 , 40 , 50};
 
     vec.erase(vec.begin()+1);//deleting only single element
-    // for(auto it : vec){
-    //     cout << it << " ";
-    // }
-    // cout << endl;
+    for(auto it : vec){
+        cout << it << " ";
+    }
+    cout << endl;
 
     vector<int> vecOne = {10 , 20 , 30 , 40 , 50};//range deleting: [start , end)-->end is excluded
     vecOne.erase(vecOne.begin()+1 , vecOne.begin()+4);
