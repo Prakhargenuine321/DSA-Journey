@@ -1,42 +1,42 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <queue>
+
 using namespace std;
 
-bool lemonadeChange(vector<int> &bills){
-    int n = bills.size();
-    int count5 = 0;
-    int count10 = 0;
-    for(int i = 0 ; i < n ; i++){
-        if(bills[i] == 5){
-            count5++;
-        }
-        else if(bills[i] == 10){
-            count10++;
-            if(count5 > 0){
-            count5--;
-            }else{
-                return false;
-            }
-        }
-        else{
-            if(count5 > 0 && count10 > 0){
-                count5--;
-                count10--;
-            }
-            else if(count5 >= 3 ){
-                count5 = count5 - 3;
-            }
-            else{
-                return false;
-            }
-        }
-    }
-    return true;
+const long long MOD = 1e9 + 7; // Use long long for modulo
+
+vector<int> apply_operations(vector<int>& nums, int k, int multiplier) {
+  priority_queue<pair<long long, int>, vector<pair<long long, int>>, greater<pair<long long, int>>> min_heap;
+
+  // Create a min-heap with elements (cast to long long) and their indices
+  for (int i = 0; i < nums.size(); i++) {
+    min_heap.push({(long long)nums[i], i});
+  }
+
+  // Perform k operations
+  for (int i = 0; i < k; i++) {
+    long long min_val = min_heap.top().first;
+    int index = min_heap.top().second;
+    min_heap.pop();
+
+    long long new_val = ((min_val * multiplier) % MOD + MOD) % MOD; // Handle negative modulo
+    nums[index] = (int)new_val; // Cast back to int for final result
+    min_heap.push({new_val, index});
+  }
+
+  return nums;
 }
 
-int main()
-{
-    vector<int> bills = {5 , 5 , 10 , 10 , 5 , 5 , 10 , 20};
-    bool ans = lemonadeChange(bills);
-    cout << ans;
-    return 0;
+int main() {
+  vector<int> nums = {100000, 2000};
+  int k = 2, multiplier = 1000000;
+
+  vector<int> result = apply_operations(nums, k, multiplier);
+  for (int num : result) {
+    cout << num << " ";
+  }
+  cout << endl;
+
+  return 0;
 }

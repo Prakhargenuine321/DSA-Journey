@@ -117,5 +117,19 @@
 1) https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/
 2) https://leetcode.com/problems/kth-missing-positive-number/description/
 
+25/08/2024-->
+1)https://leetcode.com/contest/weekly-contest-412/problems/final-array-state-after-k-multiplication-operations-i/description/
+**2)https://leetcode.com/contest/weekly-contest-412/problems/count-almost-equal-pairs-i/submissions/1367430834/
+3)https://www.naukri.com/code360/problems/aggressive-cows_1082559?leftPanelTabValue=SUBMISSION
+
+26/08/2024-->
+<===nothing===>
+
+27/08/2024-->
+1)https://leetcode.com/problems/contains-duplicate/description/
+
+
+
+
 
 
