@@ -127,9 +127,19 @@
 
 27/08/2024-->
 1)https://leetcode.com/problems/contains-duplicate/description/
+2)https://leetcode.com/problems/contains-duplicate-ii/
 
+28/08/2024-->
+1)https://www.naukri.com/code360/problems/allocate-books_1090540?leftPanelTabValue=PROBLEM
+2)https://leetcode.com/problems/split-array-largest-sum/description/
+3)https://www.naukri.com/code360/problems/painter-s-partition-problem_1089557?leftPanelTabValue=PROBLEM
 
+29/08/2024-->
+1)https://www.geeksforgeeks.org/problems/minimize-max-distance-to-gas-station/1
+2)https://leetcode.com/problems/median-of-two-sorted-arrays/
+3)https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1
 
+30/08/2024-->
 
 
 
