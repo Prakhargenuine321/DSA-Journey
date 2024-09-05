@@ -165,6 +165,10 @@ Practiced previous concepts based problems.
 1)https://leetcode.com/problems/reverse-words-in-a-string/
 2)https://leetcode.com/problems/largest-odd-number-in-string/
 
+05/09/2024-->
+1)https://www.naukri.com/code360/problems/count-nodes-of-linked-list_5884
+2)https://www.naukri.com/code360/problems/search-in-a-linked-list_975381?leftPanelTabValue=PROBLEM
+3)https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 
 
