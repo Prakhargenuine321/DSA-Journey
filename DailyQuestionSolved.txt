@@ -170,7 +170,8 @@ Practiced previous concepts based problems.
 2)https://www.naukri.com/code360/problems/search-in-a-linked-list_975381?leftPanelTabValue=PROBLEM
 3)https://leetcode.com/problems/delete-node-in-a-linked-list/
 
-
+06/09/2024-->
+1)
 
 
 
