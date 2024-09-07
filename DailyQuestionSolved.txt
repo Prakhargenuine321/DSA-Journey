@@ -171,8 +171,13 @@ Practiced previous concepts based problems.
 3)https://leetcode.com/problems/delete-node-in-a-linked-list/
 
 06/09/2024-->
-1)
+<--Kuch Nahi Kiya-->
 
+07/09/2024-->
+1)https://www.naukri.com/code360/problems/insertion-in-a-singly-linked-list_4609646?leftPanelTabValue=PROBLEM
+2)https://www.geeksforgeeks.org/problems/linked-list-insertion-1587115620/0
+3)https://www.naukri.com/code360/problems/delete-node-in-ll_5881?leftPanelTabValue=PROBLEM
+4)https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=linked-list
 
 
 
