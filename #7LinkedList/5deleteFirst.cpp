@@ -26,6 +26,8 @@ Node* deleteFirstElement(Node* head){
     head = head -> next;
 
     //to free temp node(deleted node)
+    //in 'JAVA' there is an garbage collector so you don't need to do it manually but
+    //in 'cpp' you need to do it manually.
     delete temp;
     return head;
 }

@@ -183,5 +183,11 @@ Practiced previous concepts based problems.
 1)https://leetcode.com/contest/weekly-contest-414/problems/reach-end-of-array-with-max-score/
 2)https://leetcode.com/contest/weekly-contest-414/problems/convert-date-to-binary/
 
+09/09/2024-->
+<--Kuch Nahi Kiya-->
+
+10/09/2024-->
+
+
 
 
