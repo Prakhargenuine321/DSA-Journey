@@ -16,6 +16,21 @@ using namespace std;
 //'linkedlistapp.exe' is object file which is link of above files.
 //and each time execute using syntax -->('./filepath.exe') and just enter it will run.
 
+Node* deleteFirstElement(Node* head){
+
+    //check for if there is no element
+    if(head == nullptr) return head;
+
+    //if there is an element
+    Node* temp = head; // it will point to first node so that we can free it from memory
+    head = head -> next;
+
+    //to free temp node(deleted node)
+    delete temp;
+    return head;
+}
+
+
 
 int main(){
     vector<int> arr = {1 , 2 , 3 , 4 , 5 , 6};
@@ -23,7 +38,11 @@ int main(){
     //converting above "arr" to "linkedlist"
     Node* head = arrayToLL(arr);
 
+    head = deleteFirstElement(head);
+
     tarversalLL(head);
+
+
 
 
     return 0;
