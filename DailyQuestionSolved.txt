@@ -179,5 +179,9 @@ Practiced previous concepts based problems.
 3)https://www.naukri.com/code360/problems/delete-node-in-ll_5881?leftPanelTabValue=PROBLEM
 4)https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=linked-list
 
+08/09/2024-->
+1)https://leetcode.com/contest/weekly-contest-414/problems/reach-end-of-array-with-max-score/
+2)https://leetcode.com/contest/weekly-contest-414/problems/convert-date-to-binary/
+
 
 

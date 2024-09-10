@@ -44,7 +44,7 @@ class PersonOne{
     string name;
 
     //as we know that by-deafult it has private members so 2 options hain:-
-    //1)variables ko private kar do to access members and set value from out of "class" scope.
+    //1)variables ko public kar do to access members and set value from out of "class" scope.
     //2)create "constructor" to get value but it should be public.
 
     public:

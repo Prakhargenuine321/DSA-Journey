@@ -1,32 +1,24 @@
 //here we are converting array to linked list.
-
+#include"./linkedlist.h"
 #include<bits/stdc++.h>
 using namespace std;
 
 //defining structure of node of linked list
 
-class Node{
-
-    public:
-
-    int data;
-    Node* next;
-
-    Node(){
+    Node::Node(){
         this->data = 0;
         next = nullptr;
     }
 
-    Node(int data){
+    Node::Node(int data){
         this->data = data;
         this->next = nullptr;
     }
 
-    Node(int data, Node* next){
+    Node::Node(int data, Node* next){
         this->data = data;
         this->next = next;
     }
-};
 
 //function to convert array to linked list
 Node* arrayToLL(vector<int>& arr){
@@ -67,19 +59,21 @@ int lengthOfLL(Node* head){
     return length;
 }
 
+//here commented because now it is linked with '5deleteFirst.cpp' and there should be only one 
+//main() function among all of them.
 
-int main(){
+// int main(){
 
-    vector<int> arr = {1 , 2 , 3 , 4 , 5 , 6};
-    Node* head = arrayToLL(arr);
+//     vector<int> arr = {1 , 2 , 3 , 4 , 5 , 6};
+//     Node* head = arrayToLL(arr);
 
-    //traversing whole linked list
-    tarversalLL(head);
-    cout << endl;
+//     //traversing whole linked list
+//     tarversalLL(head);
+//     cout << endl;
     
-    //length of an linked list
-    int lengthOfLinked = lengthOfLL(head);
-    cout << "Length of Linked List: " << lengthOfLinked << endl;
+//     //length of an linked list
+//     int lengthOfLinked = lengthOfLL(head);
+//     cout << "Length of Linked List: " << lengthOfLinked << endl;
 
-    return 0;
-}
+//     return 0;
+// }
