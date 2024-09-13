@@ -194,8 +194,12 @@ Practiced previous concepts based problems.
 1)https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/?envType=problem-list-v2&envId=linked-list&difficulty=EASY
 *2)https://leetcode.com/problems/remove-linked-list-elements/description/?envType=problem-list-v2&envId=linked-list&difficulty=EASY
 
+12/09/2024-->
+<--Kuch Nahi Kiya-->
 
-
+13/09/2024-->
+1)https://www.naukri.com/code360/problems/introduction-to-doubly-linked-list_8160413?leftPanelTabValue=PROBLEM&count=25&search=&sort_entity=order&sort_order=ASC
+2)https://www.naukri.com/code360/problems/deletion-in-doubly-linked-list_4609672?leftPanelTabValue=DISCUSS
 
 
 
