@@ -201,6 +201,14 @@ Practiced previous concepts based problems.
 1)https://www.naukri.com/code360/problems/introduction-to-doubly-linked-list_8160413?leftPanelTabValue=PROBLEM&count=25&search=&sort_entity=order&sort_order=ASC
 2)https://www.naukri.com/code360/problems/deletion-in-doubly-linked-list_4609672?leftPanelTabValue=DISCUSS
 
+14/09/2024-->
+1)https://www.geeksforgeeks.org/problems/delete-node-in-doubly-linked-list/1
+2)https://www.naukri.com/code360/problems/insert-at-end-of-doubly-linked-list_8160464?leftPanelTabValue=PROBLEM
+3)https://www.naukri.com/code360/problems/insertion-in-doubly-linked-list_4609682?leftPanelTabValue=PROBLEM
+4)https://leetcode.com/problems/middle-of-the-linked-list/description/
+5)https://leetcode.com/problems/reverse-linked-list/
+6)https://leetcode.com/contest/biweekly-contest-139/problems/find-indices-of-stable-mountains/
+
 
 
 
