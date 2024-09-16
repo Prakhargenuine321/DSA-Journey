@@ -209,7 +209,19 @@ Practiced previous concepts based problems.
 5)https://leetcode.com/problems/reverse-linked-list/
 6)https://leetcode.com/contest/biweekly-contest-139/problems/find-indices-of-stable-mountains/
 
+15/09/2024-->
+1)https://leetcode.com/contest/weekly-contest-415/problems/the-two-sneaky-numbers-of-digitville/
+**2)https://leetcode.com/contest/weekly-contest-415/problems/maximum-multiplication-score/
+3)https://leetcode.com/problems/linked-list-cycle/description/
+4)https://leetcode.com/problems/linked-list-cycle-ii/description/
+5)https://www.geeksforgeeks.org/problems/find-length-of-loop/1
 
+16/09/2024-->
+1)https://www.geeksforgeeks.org/problems/find-length-of-loop/1
+2)https://leetcode.com/problems/palindrome-linked-list/description/
+3)https://leetcode.com/problems/odd-even-linked-list/
+4)https://www.naukri.com/code360/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?leftPanelTabValue=PROBLEM
+5)https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 
 
