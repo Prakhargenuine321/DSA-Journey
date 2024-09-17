@@ -223,6 +223,9 @@ Practiced previous concepts based problems.
 4)https://www.naukri.com/code360/problems/segregate-even-and-odd-nodes-in-a-linked-list_1116100?leftPanelTabValue=PROBLEM
 5)https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
+17/09/2024-->
+1)
+
 
 
 
