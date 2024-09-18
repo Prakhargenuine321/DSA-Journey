@@ -224,8 +224,12 @@ Practiced previous concepts based problems.
 5)https://leetcode.com/problems/remove-nth-node-from-end-of-list/
 
 17/09/2024-->
-1)
+<--Kuch Nahi Kiya-->
 
+18/09/2024-->
+1)https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/
+2)https://leetcode.com/problems/sort-list/
+3)https://leetcode.com/problems/merge-two-sorted-lists/
 
 
 
