@@ -231,6 +231,9 @@ Practiced previous concepts based problems.
 2)https://leetcode.com/problems/sort-list/
 3)https://leetcode.com/problems/merge-two-sorted-lists/
 
+19/09/2024-->
+1)https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
+2)https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 
 
