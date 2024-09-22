@@ -239,6 +239,9 @@ Practiced previous concepts based problems.
 1)https://www.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1
 2)https://leetcode.com/problems/add-two-numbers/description/
 
+21/09/2024-->
+<--revision and some pending problems-->
+
 
 
 
