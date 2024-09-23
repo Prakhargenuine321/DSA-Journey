@@ -3,15 +3,13 @@ using namespace std;
 
 int main(){
 
-    string w1 = "abcabc";
-    string w2 = "abc";
-    vector<char> chars(w2.begin(), w2.end());
-    int count = 1;
+    int num = 10;
+    int* p1 = &num;
+    int** p2 = &p1;
+    int num1 = 30;
+    p1 = &num1;
+    cout << **p2 << endl;
 
-    while(next_permutation(chars.begin(), chars.end())){
-        count++;
-    }
-    cout << count;
 
     return 0;
 }
