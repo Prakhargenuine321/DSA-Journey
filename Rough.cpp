@@ -9,6 +9,7 @@ int main(){
     int num1 = 30;
     p1 = &num1;
     cout << **p2 << endl;
+    cout << p2 << endl;
 
 
     return 0;
