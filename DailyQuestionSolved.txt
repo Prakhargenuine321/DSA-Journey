@@ -251,6 +251,12 @@ Practiced previous concepts based problems.
 3)https://www.geeksforgeeks.org/problems/remove-duplicates-from-a-sorted-doubly-linked-list/0
 4)https://www.naukri.com/code360/problems/first-and-last-position-of-an-element-in-sorted-array_1082549?leftPanelTabValue=PROBLEM
 
+24/09/2024-->
+<--Kuch Nahi Kiya-->
+
+25/09/2024-->
+1)https://leetcode.com/problems/reverse-nodes-in-k-group/
+
 
 
 
