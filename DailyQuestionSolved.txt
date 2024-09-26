@@ -257,6 +257,10 @@ Practiced previous concepts based problems.
 25/09/2024-->
 1)https://leetcode.com/problems/reverse-nodes-in-k-group/
 
+26/09/2024-->
+1)https://leetcode.com/problems/rotate-list/description/
+2)https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
+
 
 
 
