@@ -15,7 +15,7 @@ struct Node{
 };
 
 int main(){
-
+    int num2 = 303;
     int num = 10;
     int* p1 = &num;
     int** p2 = &p1;
