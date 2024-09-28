@@ -261,6 +261,12 @@ Practiced previous concepts based problems.
 1)https://leetcode.com/problems/rotate-list/description/
 2)https://www.geeksforgeeks.org/problems/flattening-a-linked-list/1
 
+27/09/2024-->
+<--Kuch Nahi Kiya-->
+
+28/09/2024-->
+1)https://leetcode.com/problems/copy-list-with-random-pointer/
+
 
 
 
