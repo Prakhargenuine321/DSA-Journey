@@ -1,3 +1,24 @@
 #1) According to the C++ standard, main() must return an integer type (int) , otherwise it will give an error!
 #2) Taking out the exponential value of an number: pow(num , power);
 #3) While problem solving always remember that if numbers are given as -ive also and you want take minimum number then use "INT_MIN".
+
+#4)When we convert 'binary' to 'decimal' then, har baar 'pow(2, index)' use karne ki jagah evaluate it in reverse order by maintaining,
+   a variable jo sirf track rakhega ki current index par 'pow(2, index)' ki value hogi so it will save time by avoiding 
+   'call' again and again.
+
+#5)'long long' is 64-bit, 'int' is 32-bit.
+
+#6)'XOR' operator--> a)if number of 1's are odd then '1'. 
+                     b)if number of 1's are even then '0'.
+
+#7)'shift' operator--> a)'>>' right-shift operator->Moves bit 'k' bits right 'num >> k' behind the scene maths is 'num/2^k'.
+                       b)'<<' left-shift operatot->Movies 'k' bits left 'num << k' behind the scene maths is 'num*2^k'.
+
+#8)'not(~)' operator--> a)if number is poistive -->1)flip it's bits. 
+                                                   2)check if number is -ive(by seeing MSB)-if -ive then find 2's complement
+                                                    and then store else store as it is.
+
+                        b)if number is negative -->1)first find 2's complement of that negative number.
+                                                   2)flip it's bits. 
+                                                   3)check if number is -ive(by seeing MSB)-if -ive then find 2's complement 
+                                                   and then store else store as it is.                    
