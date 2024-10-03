@@ -21,4 +21,13 @@
                         b)if number is negative -->1)first find 2's complement of that negative number.
                                                    2)flip it's bits. 
                                                    3)check if number is -ive(by seeing MSB)-if -ive then find 2's complement 
-                                                   and then store else store as it is.                    
+                                                   and then store else store as it is.   
+
+#9)In question type-"set/unset" rightmost unset/set bit, you need to go through following approach:-
+   a)for 'unset' to 'set'-->do (n) | (n+1).
+   a)for 'set' to 'unset'-->do (n) & (n+1).
+
+#10)In question "Count total set bits" we need to apply->"Brian Kernighan’s Algorithm":- do (n & (n-1)) each time 'count++' till 'n > 0'.
+   >>Problem Link-->https://www.geeksforgeeks.org/problems/count-total-set-bits-1587115620/1
+   >>but brian kerninghan's algorithm will also be not as better as you have been submitted so go through link
+     and see submission for revision.
