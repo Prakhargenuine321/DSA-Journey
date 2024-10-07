@@ -303,6 +303,12 @@ Practiced previous concepts based problems.
 1)https://www.geeksforgeeks.org/problems/prime-factors5052/1
 2)https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1
 
+07/10/2024-->
+1)https://leetcode.com/problems/count-primes/
+2)https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/0
+
+08/10/2024-->
+1)
 
 
 

@@ -1,27 +1,32 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-bool prime(int num){
+void prime(vector<int>& num){
 
-    for(int i = 2 ; i * i <= num ; i++){
-        if(num % i == 0){
-            return false;
-        }
+    for(int i = 0 ; i < num.size() ; i++){
+        num[i] = num[i] * 2;
     }
-
-    return true;
 }
 
 
 int main(){
 
-    int n = 70;
+    vector<int> num = {1 , 2 , 3 , 4 , 5};
 
-    for(int i = 2 ; i < n ; i++){
-        if(prime(i)){
-            cout << i << " ";
-        }
+    for (int i = 0; i < num.size(); i++)
+    {
+        cout << num[i] << " ";
     }
+
+    cout << endl;
+
+    prime(num);
+
+    for (int i = 0; i < num.size(); i++)
+    {
+        cout << num[i] << " ";
+    }
+
 
     return 0;
 }
