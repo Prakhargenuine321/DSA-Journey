@@ -1,32 +1,37 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-void prime(vector<int>& num){
+class MyStack
+{
+private:
+    int arr[1000];
+    int top;
+public:
+    MyStack(){top=-1;}
+    int pop();
+    void push(int);
+    int topElem();
+};
 
-    for(int i = 0 ; i < num.size() ; i++){
-        num[i] = num[i] * 2;
+void MyStack ::push(int x) {
+    // Your Code
+    if(top < 1000){
+        top++;
+        arr[top] = x;
     }
 }
 
+int MyStack:: topElem(){
+    return arr[top];
+}
 
 int main(){
 
-    vector<int> num = {1 , 2 , 3 , 4 , 5};
-
-    for (int i = 0; i < num.size(); i++)
-    {
-        cout << num[i] << " ";
-    }
-
-    cout << endl;
-
-    prime(num);
-
-    for (int i = 0; i < num.size(); i++)
-    {
-        cout << num[i] << " ";
-    }
-
+    MyStack* stack = new MyStack();
+    stack->push(10);
+    stack->push(20);
+    stack->push(30);
+    cout << stack->topElem();
 
     return 0;
 }

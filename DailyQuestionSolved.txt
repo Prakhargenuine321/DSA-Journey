@@ -308,7 +308,8 @@ Practiced previous concepts based problems.
 2)https://www.geeksforgeeks.org/problems/prime-factorization-using-sieve/0
 
 08/10/2024-->
-1)
+1)https://leetcode.com/problems/assign-cookies/description/
+2)https://www.geeksforgeeks.org/problems/implement-stack-using-array/1
 
 
 
