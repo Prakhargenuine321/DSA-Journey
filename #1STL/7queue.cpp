@@ -27,7 +27,9 @@ int main(){
     
     q.pop(); // {2, 9}
 
-    cout << q.front(); // prints 2
+    cout << q.front() << endl; // prints 2
+
+    cout << q.empty();
 
 
     // size swap empty same as stack

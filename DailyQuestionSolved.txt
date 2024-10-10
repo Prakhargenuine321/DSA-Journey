@@ -314,6 +314,11 @@ Practiced previous concepts based problems.
 
 09/10/2024-->
 1)https://www.geeksforgeeks.org/problems/implement-stack-using-linked-list/1
+2)https://www.geeksforgeeks.org/problems/implement-queue-using-linked-list/1
+
+10/10/2024-->
+1)https://leetcode.com/problems/implement-stack-using-queues/description/
+2)https://leetcode.com/problems/implement-queue-using-stacks/description/
 
 
 
