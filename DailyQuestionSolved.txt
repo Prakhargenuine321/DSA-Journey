@@ -320,6 +320,10 @@ Practiced previous concepts based problems.
 1)https://leetcode.com/problems/implement-stack-using-queues/description/
 2)https://leetcode.com/problems/implement-queue-using-stacks/description/
 
+11/10/2024-->
+1)https://leetcode.com/problems/valid-parentheses/
+2)https://leetcode.com/problems/min-stack/
+
 
 
 
