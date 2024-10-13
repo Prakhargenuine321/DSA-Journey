@@ -321,8 +321,13 @@ Practiced previous concepts based problems.
 2)https://leetcode.com/problems/implement-queue-using-stacks/description/
 
 11/10/2024-->
-1)https://leetcode.com/problems/valid-parentheses/
-2)https://leetcode.com/problems/min-stack/
+1)https://leetcode.com/problems/min-stack/
+2)https://leetcode.com/problems/valid-parentheses/
+
+12/10/2024-->
+1)https://www.geeksforgeeks.org/problems/infix-to-postfix-1587115620/1
+2)https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/0
+
 
 
 
