@@ -340,6 +340,12 @@ Practiced previous concepts based problems.
 16/10/2024-->
 <---Web Dev Karta Rah Gaya And a Lot Time Wasted--->
 
+17/10/2024-->
+1)Infix notation to prefix notation.
+2)https://www.geeksforgeeks.org/problems/postfix-to-infix-conversion/0
+3)https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/0
+4)https://leetcode.com/problems/roman-to-integer/
+
 
 
 
