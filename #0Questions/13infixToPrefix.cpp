@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+
+//Infix to Postfix -->Important to be understand.
+
 //following steps will be followed
 //#1)Reverse the given string.
 //#2)Convert it in postfix.
