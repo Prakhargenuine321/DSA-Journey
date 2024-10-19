@@ -346,6 +346,14 @@ Practiced previous concepts based problems.
 3)https://www.geeksforgeeks.org/problems/prefix-to-infix-conversion/0
 4)https://leetcode.com/problems/roman-to-integer/
 
+18/10/2024-->
+<---Wasted my whole day for cricket match--->
+
+19/10/2024-->
+1)https://www.geeksforgeeks.org/problems/postfix-to-prefix-conversion/1
+2)https://www.geeksforgeeks.org/problems/prefix-to-postfix-conversion/0
+3)https://leetcode.com/problems/next-greater-element-i/
+
 
 
 
