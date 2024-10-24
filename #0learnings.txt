@@ -35,3 +35,7 @@
 #11)In "Conversion of Infix to Postfix" we need to remember that operator at top of stack is popped in only 2 conditions:
    >>If current element is ')' then pop untill '(' is occured ya phir jab tak stack empty na ho jaye.
    >>If priority of current operator is greater than priority of operator at top of stack.
+
+#12)Monotonic Stack Problems: 
+   >>Monotonic stack means jab bhi hum stack ka use data ko kisi specific order maein store karne kae liyae use karte hain.
+   >>Whether it can be in increasing or decreasing order.
