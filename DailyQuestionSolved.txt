@@ -370,6 +370,13 @@ Practiced previous concepts based problems.
 1)https://www.geeksforgeeks.org/problems/next-larger-element-1587115620/1
 2)https://leetcode.com/problems/next-greater-element-ii/
 
+25/10/2024-->
+<---Did Nothing-->
+
+26/10/2024-->
+1)https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1
+2)https://www.naukri.com/code360/problems/next-smaller-element_1112581
+
 
 
 
