@@ -377,6 +377,16 @@ Practiced previous concepts based problems.
 1)https://www.geeksforgeeks.org/problems/immediate-smaller-element1142/1
 2)https://www.naukri.com/code360/problems/next-smaller-element_1112581
 
+27/10/2024-->
+1)https://www.geeksforgeeks.org/problems/number-of-nges-to-the-right/1
+
+28/10/2024-->
+<---Did Nothing-->
+
+29/10/2024-->
+1)https://leetcode.com/problems/trapping-rain-water/
+
+
 
 
 
