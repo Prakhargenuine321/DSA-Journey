@@ -386,7 +386,17 @@ Practiced previous concepts based problems.
 29/10/2024-->
 1)https://leetcode.com/problems/trapping-rain-water/
 
+30/10/2024-->
+1)https://leetcode.com/problems/sum-of-subarray-minimums/
 
+31/10/2024-->
+<---Happy Diwali--->
+
+01/10/2024-->
+<---Happy Diwali--->
+
+02/10/2024-->
+1)https://leetcode.com/problems/asteroid-collision/submissions/1440573443/
 
 
 
